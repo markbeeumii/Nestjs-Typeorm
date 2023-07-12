@@ -5,7 +5,7 @@
     </div>
     <div>
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="200" hieght="150" alt="ahh">
-        <img src="https://img.stackshare.io/service/7419/20165699.png" width="320" hieght="400" style="margin: 0px 50px;" alt="ahh">
+        <img src="https://img.stackshare.io/service/7419/20165699.png" width="320" hieght="200" style="margin: 0px 50px;" alt="ahh">
     </div>
   </div>
 </div>
